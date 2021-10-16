@@ -53,12 +53,8 @@ Api de Chat Whatsapp Movil o Web
  Chat de Whatsapp
 <dir>
  
- 
-
-
- ![WhatsApp Image 2021-10-15 at 9 39 23 PM](https://user-images.githubusercontent.com/40078831/137570509-afbcee67-532c-481c-bc30-3259d8665ffe.jpeg)
-
- 
+ ![image](https://user-images.githubusercontent.com/24916524/137572604-32a560be-0417-4180-85f5-d3ca9f845f93.png)
+<dir>
 # Prototipo
  <dir>
   
