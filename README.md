@@ -33,17 +33,27 @@ Estados de Whatsapp
 Dispositivos Vinculados
 <dir>
  
+ ![image](https://user-images.githubusercontent.com/24916524/137572393-c8b17fd8-7ac5-4916-8737-fe0dfe824531.png)
+<dir>
 Llamadas de Whatsapp
 <dir>
  
+![image](https://user-images.githubusercontent.com/24916524/137572425-3fee1fcf-882b-404f-a80d-fb4f843a8560.png)
+<dir>
 Grupos Compartidos
 <dir>
  
+ ![image](https://user-images.githubusercontent.com/24916524/137572467-55ffb091-d8c8-4df1-87ee-36fe3c3d3829.png)
+<dir> 
 Api de Chat Whatsapp Movil o Web
 <dir>
  
-Chat de Whatsapp
+ ![image](https://user-images.githubusercontent.com/24916524/137572488-5cd76df8-db92-4db6-8a73-ed73d227a07b.png)
 <dir>
+ Chat de Whatsapp
+<dir>
+ 
+ 
 
 
  ![WhatsApp Image 2021-10-15 at 9 39 23 PM](https://user-images.githubusercontent.com/40078831/137570509-afbcee67-532c-481c-bc30-3259d8665ffe.jpeg)
