@@ -27,10 +27,15 @@ Copia de seguridad local y nube
 Estados de Whatsapp
 <dir>
  
+ ![image](https://user-images.githubusercontent.com/24916524/137572185-5eef408c-94f6-41b9-b897-5787f7b68c8a.png)
+<dir>
 Dispositivos Vinculados
 <dir>
  
+ ![image](https://user-images.githubusercontent.com/24916524/137572198-44fb04a3-dfc8-4c63-9be8-8490b6c0e16b.png)
+<dir> 
 Llamadas de Whatsapp
+ 
 <dir>
  
 Grupos Compartidos
