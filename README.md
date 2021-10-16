@@ -5,5 +5,5 @@ WhatsApp es una aplicación de mensajería que permite intercambiar mensajes pri
 <dir>
 FUNCIONES:
 
-Copia de Seguridad local y nube.
+
  
