@@ -3,10 +3,10 @@ Pruebas de calidad WhatsApp
 <dir>
 WhatsApp es una aplicación de mensajería que permite intercambiar mensajes privados entre dos o más personas, en tiempo real, ya sea en modo texto o mediante llamadas de voz o videoconferencia
 <dir>
- 
-# Funciones:
+ # Funciones:
 <dir>
- 
+![image](https://user-images.githubusercontent.com/24916524/137570397-af91b649-0fc6-4b61-a887-a689d4bf6861.png)
+<dir>
 Perfil de Whatsapp
 <dir> 
  
