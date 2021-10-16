@@ -35,5 +35,6 @@ Chat de Whatsapp
  <dir>
   
 #Perfil de Whatsapp
-  <dir>
-![perfil](https://user-images.githubusercontent.com/92187529/137569951-162e134c-507e-46c3-8a45-7a14af88f718.PNG)
+<dir>
+ 
+![perfil](https://user-images.githubusercontent.com/92187529/137569992-986dfd6b-32fd-4c52-9e02-b376a0ebe2db.PNG)
