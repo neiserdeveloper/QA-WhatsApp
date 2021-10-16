@@ -35,9 +35,10 @@ Dispositivos Vinculados
  ![image](https://user-images.githubusercontent.com/24916524/137572198-44fb04a3-dfc8-4c63-9be8-8490b6c0e16b.png)
 <dir> 
 Llamadas de Whatsapp
- 
+ <dir>
+  
+ ![image](https://user-images.githubusercontent.com/24916524/137572271-2899aca0-abe4-48e7-ab25-1f300c327348.png)
 <dir>
- 
 Grupos Compartidos
 <dir>
 
