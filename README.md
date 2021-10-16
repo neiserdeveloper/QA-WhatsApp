@@ -10,7 +10,9 @@ WhatsApp es una aplicación de mensajería que permite intercambiar mensajes pri
  ![image](https://user-images.githubusercontent.com/24916524/137570397-af91b649-0fc6-4b61-a887-a689d4bf6861.png)
 <dir>
 
- CASO DE USO
+CASO DE USO
+<dir>
+  
 Perfil de Whatsapp
 <dir> 
  
