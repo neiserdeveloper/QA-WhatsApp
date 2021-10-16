@@ -7,18 +7,25 @@ FUNCIONES:
 
 Perfil de Whatsapp
 <dir> 
+ 
 Copia de Seguridad local y nube
 <dir>
+ 
 Estados de Whatsapp
 <dir>
+ 
 Dispositivos Vinculados
 <dir>
+ 
 Llamadas de Whatsapp
 <dir>
+ 
 Grupos Compartidos
 <dir>
+ 
 Api de Chat Whatsapp Movil o Web
 <dir>
+ 
 Chat de Whatsapp
 <dir>
  
