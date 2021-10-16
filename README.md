@@ -22,6 +22,8 @@ Perfil de Whatsapp
 Copia de seguridad local y nube
 <dir>
  
+ ![image](https://user-images.githubusercontent.com/24916524/137572164-9e5cf130-5c56-48dd-97ca-41749d8ffb0b.png)
+<dir>
 Estados de Whatsapp
 <dir>
  
