@@ -34,5 +34,6 @@ Chat de Whatsapp
 # Prototipo
  <dir>
   
- #Perfil de Whatsapp
+#Perfil de Whatsapp
+  <dir>
 ![perfil](https://user-images.githubusercontent.com/92187529/137569951-162e134c-507e-46c3-8a45-7a14af88f718.PNG)
