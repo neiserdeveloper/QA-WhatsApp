@@ -22,37 +22,22 @@ Perfil de Whatsapp
 Copia de seguridad local y nube
 <dir>
  
- ![image](https://user-images.githubusercontent.com/24916524/137572164-9e5cf130-5c56-48dd-97ca-41749d8ffb0b.png)
-<dir>
 Estados de Whatsapp
 <dir>
  
- ![image](https://user-images.githubusercontent.com/24916524/137572185-5eef408c-94f6-41b9-b897-5787f7b68c8a.png)
-<dir>
 Dispositivos Vinculados
 <dir>
  
- ![image](https://user-images.githubusercontent.com/24916524/137572198-44fb04a3-dfc8-4c63-9be8-8490b6c0e16b.png)
-<dir> 
 Llamadas de Whatsapp
- <dir>
-  
- ![image](https://user-images.githubusercontent.com/24916524/137572271-2899aca0-abe4-48e7-ab25-1f300c327348.png)
 <dir>
+ 
 Grupos Compartidos
 <dir>
-
- ![image](https://user-images.githubusercontent.com/24916524/137572228-9c86e92a-5bab-428c-940c-077d7a97dfeb.png)
-<dir>
+ 
 Api de Chat Whatsapp Movil o Web
 <dir>
  
- ![image](https://user-images.githubusercontent.com/24916524/137572236-2a4e73c4-2a59-4f94-afbf-df151d07fa44.png)
-<dir> 
 Chat de Whatsapp
-<dir>
- 
- ![image](https://user-images.githubusercontent.com/24916524/137572243-fa70cf0c-a294-4ad4-b23f-a32ef1fceaca.png)
 <dir>
 # Caso De Uso
 
@@ -84,3 +69,30 @@ Dispositivos Vinculados
 <dir>
 
 ![vinculados](https://user-images.githubusercontent.com/92187529/137572046-3202587f-d84a-48fe-827e-310f958e0d2b.jpeg)
+<dir>
+ 
+Llamadas de WhatsApp
+<dir>
+
+![llamadas](https://user-images.githubusercontent.com/92187529/137572183-aeae9f4b-8d71-4c7f-9651-31bb8aa613d4.png)
+<dir>
+ 
+Grupos Compartidos
+<dir>
+
+![grupos](https://user-images.githubusercontent.com/92187529/137572214-5819456a-0f8f-4016-ad5e-850f59e454ba.png)
+<dir>
+
+Api de chat WhatsApp móvil o web
+<dir>
+ 
+![api](https://user-images.githubusercontent.com/92187529/137572246-567ae6a5-c35a-42a4-b525-eeacdbd20f84.jpeg)
+<dir>
+
+Chats de WhatsApp
+<dir>
+ 
+![8](https://user-images.githubusercontent.com/92187529/137572275-ec64ac53-268d-4f9b-9349-b87fdf26beb5.png)
+<dir>
+
+
