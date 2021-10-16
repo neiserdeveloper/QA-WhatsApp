@@ -22,7 +22,12 @@ Perfil de Whatsapp
 Copia de seguridad local y nube
 <dir>
  
+ ![image](https://user-images.githubusercontent.com/24916524/137572324-731c70cb-9cbe-45ef-a21d-96ad48783b0f.png)
+<dir>
 Estados de Whatsapp
+<dir>
+ 
+ ![image](https://user-images.githubusercontent.com/24916524/137572344-8084644f-bdd7-4f9f-8ef5-65d195aff159.png)
 <dir>
  
 Dispositivos Vinculados
