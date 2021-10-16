@@ -11,8 +11,9 @@ WhatsApp es una aplicación de mensajería que permite intercambiar mensajes pri
 
 Perfil de Whatsapp
 <dir> 
- 
-Copia de Seguridad local y nube
+ ![image](https://user-images.githubusercontent.com/24916524/137571612-9b3565ad-6cd2-48c9-8f9e-cea1365c1629.png)
+<DIR>
+Copia de seguridad local y nube
 <dir>
  
 Estados de Whatsapp
