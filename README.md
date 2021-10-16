@@ -51,3 +51,21 @@ Perfil de Whatsapp
 <dir>
  
 ![perfil](https://user-images.githubusercontent.com/92187529/137569992-986dfd6b-32fd-4c52-9e02-b376a0ebe2db.PNG)
+<dir>
+ 
+Copia de seguridad local y nube
+<dir>
+ 
+![nube](https://user-images.githubusercontent.com/92187529/137571986-667bcd10-632b-4c17-b4a0-930a8f79c3cd.jpeg)
+<dir>
+ 
+Estados de WhatsApp
+<dir>
+
+![estados](https://user-images.githubusercontent.com/92187529/137572020-3671cceb-a1e3-4a0b-8d9f-2fb0f568548a.png)
+<dir>
+ 
+Dispositivos Vinculados
+<dir>
+
+![vinculados](https://user-images.githubusercontent.com/92187529/137572046-3202587f-d84a-48fe-827e-310f958e0d2b.jpeg)
