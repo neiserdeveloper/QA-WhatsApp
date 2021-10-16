@@ -40,11 +40,18 @@ Llamadas de Whatsapp
  
 Grupos Compartidos
 <dir>
- 
+
+ ![image](https://user-images.githubusercontent.com/24916524/137572228-9c86e92a-5bab-428c-940c-077d7a97dfeb.png)
+<dir>
 Api de Chat Whatsapp Movil o Web
 <dir>
  
+ ![image](https://user-images.githubusercontent.com/24916524/137572236-2a4e73c4-2a59-4f94-afbf-df151d07fa44.png)
+<dir> 
 Chat de Whatsapp
+<dir>
+ 
+ ![image](https://user-images.githubusercontent.com/24916524/137572243-fa70cf0c-a294-4ad4-b23f-a32ef1fceaca.png)
 <dir>
 # Caso De Uso
 
