@@ -60,32 +60,32 @@ Api de Chat Whatsapp Movil o Web
   
 Perfil de Whatsapp
 <dir>
+ ![WhatsApp Image 2021-11-07 at 11 15 23](https://user-images.githubusercontent.com/32179085/140653030-181785eb-2e8b-4a8e-80ba-7865201aa626.jpeg)
  
-![perfil](https://user-images.githubusercontent.com/92187529/137569992-986dfd6b-32fd-4c52-9e02-b376a0ebe2db.PNG)
 <dir>
  
 Copia de seguridad local y nube
 <dir>
  
-![nube](https://user-images.githubusercontent.com/92187529/137571986-667bcd10-632b-4c17-b4a0-930a8f79c3cd.jpeg)
+ ![WhatsApp Image 2021-11-07 at 11 15 41](https://user-images.githubusercontent.com/32179085/140653047-4a7e407f-5503-4a46-b619-364b144e0310.jpeg)
 <dir>
  
 Estados de WhatsApp
 <dir>
 
-![estados](https://user-images.githubusercontent.com/92187529/137572020-3671cceb-a1e3-4a0b-8d9f-2fb0f568548a.png)
+![WhatsApp Image 2021-11-07 at 11 19 03](https://user-images.githubusercontent.com/32179085/140653135-5d0055f7-6323-4fa2-aea3-44d778e7fd12.jpeg)
 <dir>
  
 Dispositivos Vinculados
 <dir>
 
-![vinculados](https://user-images.githubusercontent.com/92187529/137572046-3202587f-d84a-48fe-827e-310f958e0d2b.jpeg)
+![WhatsApp Image 2021-11-07 at 11 16 09](https://user-images.githubusercontent.com/32179085/140653095-cf58ecb5-c54e-433e-95fa-7b5bb8e70240.jpeg)
 <dir>
  
 Llamadas de WhatsApp
 <dir>
 
-![llamadas](https://user-images.githubusercontent.com/92187529/137572183-aeae9f4b-8d71-4c7f-9651-31bb8aa613d4.png)
+![WhatsApp Image 2021-11-07 at 11 17 28](https://user-images.githubusercontent.com/32179085/140653124-74441600-c662-49c5-ab0f-cf08efc146b5.jpeg)
 <dir>
  
 Grupos Compartidos
@@ -97,13 +97,13 @@ Grupos Compartidos
 Api de chat WhatsApp móvil o web
 <dir>
  
-![api](https://user-images.githubusercontent.com/92187529/137572246-567ae6a5-c35a-42a4-b525-eeacdbd20f84.jpeg)
+![WhatsApp Image 2021-11-07 at 11 16 52](https://user-images.githubusercontent.com/32179085/140653107-1b747a37-0498-4de8-af48-fe8c51c5fa21.jpeg)
 <dir>
 
 Chats de WhatsApp
 <dir>
  
-![8](https://user-images.githubusercontent.com/92187529/137572275-ec64ac53-268d-4f9b-9349-b87fdf26beb5.png)
+![WhatsApp Image 2021-11-07 at 11 17 08](https://user-images.githubusercontent.com/32179085/140653117-31297041-8287-46f1-9e51-a2bce3bea200.jpeg)
 <dir>
 
 
