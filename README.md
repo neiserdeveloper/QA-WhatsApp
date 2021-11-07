@@ -90,8 +90,7 @@ Llamadas de WhatsApp
  
 Grupos Compartidos
 <dir>
-
-![grupos](https://user-images.githubusercontent.com/92187529/137572214-5819456a-0f8f-4016-ad5e-850f59e454ba.png)
+![WhatsApp Image 2021-11-07 at 11 16 35](https://user-images.githubusercontent.com/32179085/140653203-8370a146-6414-49c3-a438-e2eb04e3a333.jpeg)
 <dir>
 
 Api de chat WhatsApp móvil o web
